@@ -1,0 +1,62 @@
+body
+        {
+            font-family: 'Times New Roman', Times, serif;
+            column:30% 70% 2;
+        }
+        #Sidebar
+        {  
+            background-color: rgb(212, 240, 243);
+            color: black;
+            float:left;
+            width:32%;
+        }
+        #Sidebar h4,p
+        {
+           margin-left:30px;
+           margin-right: 30px;
+           font-size: 20px;
+           text-align: justify;
+
+        }
+        h4
+        {
+            color: navy;
+            font-size: 50px;
+            width: 100%;
+        }
+        nav{
+            
+            background-color: navy;
+            color: white;
+        }
+        #Sidebar1
+        {
+            background-color: white;
+            color: black;
+            width: 70%;
+            margin-left: 25%;
+        }
+        #img1
+        {   border: 5px solid white;
+            border-radius: 50%;
+            height: 250px;
+            width: 250px;
+            margin-left: 45px;
+        }
+        h2
+        {   
+            text-align: left;
+            margin-left: 120px;
+        }
+     #Sidebar1 p,ul
+     {
+           margin-left: 150px; 
+           font-size: 20px;
+           text-align: justify;
+     }
+
+        h3
+        {  margin-left: 150px;
+            color:navy;
+            font-size: 30px;
+        }
